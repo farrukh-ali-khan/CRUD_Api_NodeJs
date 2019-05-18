@@ -6,6 +6,6 @@ Server running on port 3000.
 
 Use postman for checking.
 
-For post data in database use x-www-form-urlencoded.
+For post and delete data in database use x-www-form-urlencoded.
 
 For checking post and delete you have to use specific id in url.
